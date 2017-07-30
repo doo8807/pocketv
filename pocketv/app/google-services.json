@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291332910515",
+    "project_id": "firebase-pocketv"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291332910515:android:9e3595ec27f20780",
+        "android_client_info": {
+          "package_name": "com.example.doo88.pocketv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291332910515-3bldr3ln7k9cooosisl2sadt8g72uqb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doo88.pocketv",
+            "certificate_hash": "554a35e7e2b31d75c0030adfc0861ed8d2d417eb"
+          }
+        },
+        {
+          "client_id": "291332910515-a8jp3gtp67t7mktheu2m2ulbq15crlca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGd7QuPUR3YacKtN1NF0zqoJ-i6MEWv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
